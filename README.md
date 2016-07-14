@@ -1,3 +1,4 @@
 # hello-world
-Repository for familiarisation
+Repository for familiarisation.
+
 Testing the features of github
