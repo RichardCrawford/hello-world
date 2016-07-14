@@ -1,4 +1,4 @@
 # hello-world
 Repository for familiarisation.
 
-Testing the features of github
+Testing the features of github.
